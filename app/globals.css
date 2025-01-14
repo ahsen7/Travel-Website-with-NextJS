@@ -13,7 +13,7 @@
 }
 
 body {
-  font-family:Oswald, sans-serif;
+  font-family:Plus Jakarta Sans, sans-serif;
 }
 
 @layer utilities {
@@ -33,7 +33,11 @@ body {
     @apply border-gray-20 bg-green-90 px-8 py-5 text-white
   }
   .btn_purple{
-    @apply  border-purple-50 bg-[#702963] px-8 py-3 text-white}
+    @apply  border-purple-50 bg-[#702963] px-8 py-3 text-white
+  }
+  .btn_blue{
+    @apply  border-blue-100 bg-[#6495ED] px-8 py-3 text-white
+  }
   
   .max-container {
     @apply mx-auto max-w-[1440px];
