@@ -31,7 +31,7 @@ export const NAV_LINKS = [
         "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
     },
     {
-      title: 'Technology using augment reality',
+      title: 'Technology using augmented reality',
       icon: '/tech.svg',
       variant: 'green',
       description:
@@ -51,7 +51,7 @@ export const NAV_LINKS = [
     {
       title: 'Learn More',
       links: [
-        'About Hilink',
+        'About TravelHive',
         'Press Releases',
         'Environment',
         'Jobs',
@@ -61,7 +61,7 @@ export const NAV_LINKS = [
     },
     {
       title: 'Our Community',
-      links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+      links: ['Climbing xixixi', 'Hiking TravelHive'],
     },
   ];
   
@@ -69,7 +69,7 @@ export const NAV_LINKS = [
     title: 'Contact Us',
     links: [
       { label: 'Admin Officer', value: '123-456-7890' },
-      { label: 'Email Officer', value: 'hilink@akinthil.com' },
+      { label: 'Email Officer', value: 'travelhive@example.com' },
     ],
   };
   

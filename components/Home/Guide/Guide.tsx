@@ -11,7 +11,7 @@ const Guide = () => {
           width={50}
           height={50}
         />
-        <p className='uppercase regular-16 -mt-1 mb-3
+        <p className='uppercase regular-16 mt-2 mb-3
          text-[#6495ED]'>
           Expert Guides, Unmatched Adventures
         </p>
