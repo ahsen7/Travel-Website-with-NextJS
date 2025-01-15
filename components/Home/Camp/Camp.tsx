@@ -33,13 +33,13 @@ const Camp = () => {
             and nature’s charm. From serene forest retreats to golden desert dunes,
             we provide everything you need for an unforgettable adventure. Enjoy premium amenities,
             expert guidance, and the perfect balance between relaxation and thrill..</p>
-            <Image
+          <Image
             src="/quote.svg"
             alt="camp-2"
             width={186}
             height={219}
             className='camp-quote'
-            />
+          />
         </div>
       </div>
 
